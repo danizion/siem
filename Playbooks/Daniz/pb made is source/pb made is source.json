@@ -17,7 +17,7 @@
     "categoryId": 3,
     "originalPlaybookIdentifier": "25a207c7-8a38-4ab6-a4a5-f5b54f29b57f",
     "creationTimeUnixTimeInMs": 1713431495497,
-    "modificationTimeUnixTimeInMs": 1713431506246,
+    "modificationTimeUnixTimeInMs": 1713433060392,
     "trigger": {
         "id": 0,
         "identifier": "edcc7eb6-710b-4dbe-807f-9f147521967c",
@@ -174,8 +174,8 @@
             "parentStepContainerId": null,
             "workflowIdentifier": "25a207c7-8a38-4ab6-a4a5-f5b54f29b57f",
             "id": 0,
-            "creationTimeUnixTimeInMs": 1713431506156,
-            "modificationTimeUnixTimeInMs": 1713431506246,
+            "creationTimeUnixTimeInMs": 1713433060281,
+            "modificationTimeUnixTimeInMs": 1713433060392,
             "additionalProperties": {}
         }
     ],
@@ -186,16 +186,16 @@
         "debugBaseAlertId": null,
         "debugAlertId": null
     },
-    "entityAccessLevel": 1,
-    "defaultAccessLevel": 1,
+    "entityAccessLevel": 2,
+    "defaultAccessLevel": 2,
     "permissions": [
         {
             "workflowOriginalIdentifier": "25a207c7-8a38-4ab6-a4a5-f5b54f29b57f",
             "user": "340ca927-727c-4919-9cce-6ded205c8ad2",
             "accessLevel": 2,
-            "id": 1,
-            "creationTimeUnixTimeInMs": 1713431506278,
-            "modificationTimeUnixTimeInMs": 1713431506278
+            "id": 2,
+            "creationTimeUnixTimeInMs": 1713433060433,
+            "modificationTimeUnixTimeInMs": 1713433060433
         }
     ],
     "overviewTemplates": []
